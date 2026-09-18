@@ -13,10 +13,19 @@ The aim is to control the flu of a specific person.
 
 ## Tasks
 
-### Mom
-
+### Mom (aleka)
+- [ ] cook _hot_ soup for my ill child. 
+- [ ] take their temperature every hour.
+- [x] take them to see the doctor. 
+- [ ] tell my child they got sick because they didnt listen to me.
 ### Friend
 
+
+
+
 ### Doctor
+
+
+
 
 ### Sick Person
