@@ -18,14 +18,13 @@ The aim is to control the flu of a specific person.
 - [ ] take their temperature every hour.
 - [x] take them to see the doctor. 
 - [ ] tell my child they got sick because they didnt listen to me.
-### Friend
+### Friend (tonino)
+- Bring snacks and moral support.
+- Send reels to cheer them up.
+- Make sure they actually get some rest.
+### Doctor (ewura)
 
 
 
 
-### Doctor
-
-
-
-
-### Sick Person
+### Sick Person (thalena)
