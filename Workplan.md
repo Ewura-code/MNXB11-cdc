@@ -26,13 +26,7 @@ The aim is to control the flu of a specific person.
 
 
 
-
-### Doctor
-
-
-
-
-### Sick Person
+### Sick Person (Thalena)
 
 As Gregor Samsa awoke one morning from uneasy dreams, he found himself transformed in his bed into a gigantic insect. 
 
