@@ -18,14 +18,18 @@ The aim is to control the flu of a specific person.
 - [ ] take their temperature every hour.
 - [x] take them to see the doctor. 
 - [ ] tell my child they got sick because they didnt listen to me.
-### Friend
+### Friend (tonino)
+- Bring snacks and moral support.
+- Send reels to cheer them up.
+- Make sure they actually get some rest.
+### Doctor (ewura)
 
 
 
+### Sick Person (Thalena)
 
-### Doctor (Ewura)
-Diagnose the flu symptoms and confirm the illness.
-Prescribe appropriate medications and dosage.
-Advise on rest, fluids and recovery timeline.
-Monitor progress and adjust treatment if needed.
-### Sick Person
+As Gregor Samsa awoke one morning from uneasy dreams, he found himself transformed in his bed into a gigantic insect. 
+
+February 7. Complete standstill. Unending torments.
+
+
