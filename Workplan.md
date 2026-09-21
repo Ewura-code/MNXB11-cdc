@@ -23,9 +23,9 @@ The aim is to control the flu of a specific person.
 
 
 
-### Doctor
-
-
-
-
+### Doctor (Ewura)
+Diagnose the flu symptoms and confirm the illness.
+Prescribe appropriate medications and dosage.
+Advise on rest, fluids and recovery timeline.
+Monitor progress and adjust treatment if needed.
 ### Sick Person
